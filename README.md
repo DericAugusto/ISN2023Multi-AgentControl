@@ -1,2 +1,5 @@
-# ISN2023Multi-AgentControl
-Material from the course of Collaborative control in multi-agent system at ENSEM - Université de Lorraine.
+## Université de Lorraine - ISN ENSEM
+# Pilotage des Systèmemes Multi-agents
+
+Matériel du cours du S9 - 3èmme année 2023/2. Professeur : Irinel-Constantin Morarescu.
+
